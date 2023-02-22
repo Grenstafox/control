@@ -1,0 +1,74 @@
+[
+    {
+        "precio": 3.00,
+        "id": 1,
+        "title": "Bubbaloo",
+        "thumbnailUrl": "https://p1dcn.000webhostapp.com/bubaloo.png"
+    },
+    {
+        "precio": 35.00,
+        "id": 2,
+        "title": "Cheetos",
+        "thumbnailUrl": "https://p1dcn.000webhostapp.com/chetos.png"
+    },
+    {
+        "precio": 279.00,
+        "id": 3,
+        "title": "Hershey's",
+        "thumbnailUrl": "https://p1dcn.000webhostapp.com/hersheys.png"
+    },
+    {
+        "precio": 45.00,
+        "id": 4,
+        "title": "Icee",
+        "thumbnailUrl": "https://p1dcn.000webhostapp.com/icee.png"
+    },
+    {
+        "precio":  8.50,
+        "id": 5,
+        "title": "Masapan",
+        "thumbnailUrl": "https://p1dcn.000webhostapp.com/masapan.png"
+    },
+    {
+        "precio": 43.00,
+        "id": 6,
+        "title": "rockaleta",
+        "thumbnailUrl": "https://p1dcn.000webhostapp.com/rockaleta.png"
+    },
+    {
+        "precio": 26.50,
+        "id": 7,
+        "title": "Ruffles",
+        "thumbnailUrl": "https://p1dcn.000webhostapp.com/ruffles.png"
+    },
+    {
+        "precio": 20.00,
+        "id": 8,
+        "title": "sabritas",
+        "tthumbnailUrl": "https://p1dcn.000webhostapp.com/sabritas.png"
+    },
+    {
+        "precio": 25.50,
+        "id": 9,
+        "title": "skittles",
+        "thumbnailUrl": "https://p1dcn.000webhostapp.com/skittles.png"
+    },
+    {
+        "precio": 338.90,
+        "id": 10,
+        "title": "Snickers",
+        "thumbnailUrl": "https://p1dcn.000webhostapp.com/snickers.png"
+    },
+    {
+        "precio": 234.00,
+        "id": 11,
+        "title": "Swinkles",
+        "thumbnailUrl": "https://p1dcn.000webhostapp.com/swinkles.png"
+    },
+    {
+        "precio": 138.00,
+        "id": 12,
+        "title": "Takis",
+        "thumbnailUrl": "https://p1dcn.000webhostapp.com/takis.png"
+    }
+]
